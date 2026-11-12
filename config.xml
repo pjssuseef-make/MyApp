@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.termux.MyApp" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
+    <name>MyApp</name>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+</widget>
